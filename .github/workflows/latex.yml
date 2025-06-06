@@ -18,7 +18,7 @@ jobs:
       uses: xu-cheng/latex-action@v3
       with:
         root_file: Draft1/main.tex  # Path to your main .tex file
-        args: -pdf -file-line-error -halt-on-error -interaction=nonstopmode
+        args: -pdf -file-line-error -interaction=nonstopmode
         
     - name: Upload PDF artifact
       uses: actions/upload-artifact@v4
