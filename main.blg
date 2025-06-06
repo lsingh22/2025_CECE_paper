@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: aipnum4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: mainNotes.bib
+Database file #2: refs.bib
+Warning--entry type for "anna-bs" isn't style-file defined
+--line 741 of file refs.bib
+Warning--entry type for "matthijs-msc" isn't style-file defined
+--line 749 of file refs.bib
+Warning--I didn't find a database entry for "foreman2013emcee"
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs aipnum4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing publisher in lore2010measurement
+You've used 16 entries,
+            5918 wiz_defined-function locations,
+            1713 strings with 17368 characters,
+and the built_in function-call counts, 15481 in all, are:
+= -- 968
+> -- 473
+< -- 91
++ -- 157
+- -- 122
+* -- 2366
+:= -- 1660
+add.period$ -- 18
+call.type$ -- 16
+change.case$ -- 66
+chr.to.int$ -- 16
+cite$ -- 17
+duplicate$ -- 1400
+empty$ -- 1114
+format.name$ -- 242
+if$ -- 3007
+int.to.chr$ -- 1
+int.to.str$ -- 25
+missing$ -- 174
+newline$ -- 100
+num.names$ -- 48
+pop$ -- 591
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 537
+stack$ -- 0
+substring$ -- 349
+swap$ -- 1325
+text.length$ -- 47
+text.prefix$ -- 0
+top$ -- 8
+type$ -- 223
+warning$ -- 2
+while$ -- 59
+width$ -- 0
+write$ -- 178
+(There were 5 warnings)
