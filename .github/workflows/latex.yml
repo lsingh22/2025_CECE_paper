@@ -17,7 +17,8 @@ jobs:
     - name: Compile LaTeX document
       uses: xu-cheng/latex-action@v3
       with:
-        root_file: Draft1/main.tex  # Path to your main .tex file
+        root_file: main.tex  # Path to your main .tex file
+        working_directory: Draft1
         args: -pdf -file-line-error -interaction=nonstopmode
         
     - name: Upload PDF artifact
